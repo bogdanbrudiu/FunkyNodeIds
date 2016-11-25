@@ -54,7 +54,7 @@
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
-    <ProjectReference Include="..\ConsoleApplication1\FunkyNodeIds.csproj">
+    <ProjectReference Include="..\FunkyNodeIds\FunkyNodeIds.csproj">
       <Project>{dd2f6071-bfaf-4855-b90d-371573422bf5}</Project>
       <Name>FunkyNodeIds</Name>
     </ProjectReference>
